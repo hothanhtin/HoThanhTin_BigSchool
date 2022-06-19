@@ -28,4 +28,3 @@ namespace BigSchool.ViewModels
         }
     }
 }
-//test
